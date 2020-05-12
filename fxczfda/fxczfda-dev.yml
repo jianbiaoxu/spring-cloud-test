@@ -1,0 +1,5 @@
+app:
+  name: "非现场采集-珠海"
+spring:
+  application:
+    name: fxczfda-zh
